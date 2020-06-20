@@ -1,4 +1,4 @@
-# To Do List 구현
+# To Do List
 
 ![todolist](https://user-images.githubusercontent.com/51525202/84785164-1e311380-b026-11ea-9d23-45981680a123.png)
 
