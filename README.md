@@ -5,7 +5,7 @@
 ## 학습 내용
 
 - 기본적인 django 환경 세팅 방법 파악
-- app의 개념과 urls, views, model의 역할
+- app의 개념과 MVT 패턴
 - SQLite3을 이용한 CRUD 구현
 
 
